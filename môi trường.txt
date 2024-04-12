@@ -1,0 +1,11 @@
+npm create vite@latest -- --template react-ts
+
+npm i
+
+npm i react-hook-form react-router-dom joi axios bootstrap
+
+npm i json-server@0.17.4 json-server-auth -D 
+
+npm i @tanstack/react-query           
+
+npm i @hookform/resolvers

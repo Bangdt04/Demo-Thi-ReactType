@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "name": "Sản phẩm 1",
+      "price": 100,
+      "image": "https://picsum.photos/200/200",
+      "description": "Mô tả 1",
+      "id": 1
+    },
+    {
+      "name": "Sản phẩm 2",
+      "price": 200,
+      "image": "https://picsum.photos/200/200",
+      "description": "Mô tả 2",
+      "id": 2
+    },
+    {
+      "name": "Sản phẩm sửa",
+      "price": 300,
+      "image": "https://picsum.photos/200/200",
+      "description": "Mô tả sản phẩm sửa",
+      "id": 3
+    },
+    {
+      "name": "Sản phẩm thêm",
+      "price": 123,
+      "image": "https://picsum.photos/200/200",
+      "description": "Mô tả sản phẩm thêm",
+      "id": 4
+    }
+  ],
+  "user": [
+    {
+      "name": "bang1",
+      "email": "bang1admin@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "id": 1
+    },
+    {
+      "email": "bang1admin@gmail.com",
+      "password": "123456",
+      "id": 2
+    }
+  ]
+}
